@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanialMustafa
 - 👀 I’m interested in exploring coding and its application in the world
-- 🌱 I’m currently interested in Data Science and specifically finding patterns within data
+- 🌱 I’m currently interested in Data Science
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me danialmustafa03@gmail.com
 
